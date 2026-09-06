@@ -1,4 +1,8 @@
 # Sales-Prediction-using-Python
+## 👤 Author
+- **Program:** EXPS Nexus Virtual Internship
+- **Role:** Data Science Intern
+- **Name:** Laiba Nisar
 # Multi-Channel Advertising Sales Prediction & Budget Optimization
 
 An econometric and machine learning study analyzing the relationship between media expenditures (TV, Radio, Newspaper) and product sales to eliminate marketing waste and maximize return on ad spend (ROAS).
